@@ -1,0 +1,1 @@
+Repos includes Object-Oriented Programming Assignment. A stock management system where every stock has its own class. A GUI is also provided using JavaFX library. No Database connection.
